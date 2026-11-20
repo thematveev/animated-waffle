@@ -7,3 +7,4 @@ for i in range(10):
     print(
         funcs.calc(2, 3)
     )
+print("Last line")
